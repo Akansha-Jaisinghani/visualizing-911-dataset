@@ -11,3 +11,9 @@
 
 ## **EMERGENCY-TYPE PER EMS-CALLS**
 ![image](https://github.com/Akansha-Jaisinghani/visualizing-911-dataset/blob/master/Ems-calls.png)
+
+## **EMERGENCY-TYPE PER FIRE-CALLS**
+![image](https://github.com/Akansha-Jaisinghani/visualizing-911-dataset/blob/master/Fire-calls.png)
+
+## **EMERGENCY-TYPE PER TRAFFIC-CALLS**
+![image](https://github.com/Akansha-Jaisinghani/visualizing-911-dataset/blob/master/Traffic-calls.png)
